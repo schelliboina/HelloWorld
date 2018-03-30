@@ -1,3 +1,3 @@
 # HelloWorld
-Optional description...
+
 My first github repository!
